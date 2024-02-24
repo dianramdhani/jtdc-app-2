@@ -1,0 +1,16 @@
+{
+  "name": "belajar-puppeteer-real-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^3.1.6",
+    "dotenv": "^16.4.5",
+    "puppeteer-real-browser": "^1.1.7"
+  }
+}
